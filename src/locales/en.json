@@ -1,0 +1,15 @@
+{
+  "i18n_welcome": "Welcome!",
+  "i18n_categoryType": "Select category",
+  "i18n_listItems": "List Items",
+  "i18n_appName": "The BID",
+  "i18n_subHeader": "in real time!",
+  "i18n_nameColumnHeader": "Name",
+  "i18n_priceColumnHeader": "Price",
+  "i18n_listDescription": "Listed items in category",
+  "i18n_offerBidButton": "Offer BID",
+  "i18n_userEmailLabel": "Email",
+  "i18n_bidAmountLabel": "Amount",
+  "i18n_error": "Error occurred. Can you try again?",
+  "i18n_bidDescription": "Bids for item"
+}
